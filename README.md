@@ -1,7 +1,7 @@
 # DOC
 Disentangled Opinion Clustering
 
-Please follow the steps to download the datasets and reproduce the results:
+Please follow the instructions to download the datasets and reproduce the results:
 
 ## Download Configurations and Datasets:
 1. Download [input.zip](https://doc-inputzip.s3.eu-west-1.amazonaws.com/input.zip), unzip it and place the contents into ./DOCClusterRepLearning/input
