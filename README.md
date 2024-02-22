@@ -10,7 +10,7 @@ Please follow the instructions to download the datasets and reproduce the result
 
 ## Pre-process the datasets:
 
-4. Look at ./DOCClusterRepLearning/datasets/CMF_train_r_withouttext.csv. The text column is anonymised. So please restore the text field using the twitterID before pythoning. **Reminder**: (1) Since both CMF and VAD are twitter datasets, some tweets might have been deleted at the time of your reproduction. So be prepared for missing some of the tweets. (2) Make sure you obtain full_text when collecting tweets using the TwitterAPI.
+4. Look at ./DOCClusterRepLearning/datasets/CMF_train_r_withouttext.csv. The text column is anonymised. So please restore the text field using the twitterID before pythoning. **Reminder**: (1) Since both CMF (https://gitlab.com/mlpacheco/covid-moral-foundations/-/tree/main) and VAD are twitter datasets, some tweets might have been deleted at the time of your reproduction. So be prepared for missing some of the tweets. (2) Make sure you obtain full_text when collecting tweets using the TwitterAPI.
 
 5. After you've restored the text, rename the files to `CMF_test_r.csv`, `CMF_train_r.csv`, `VAD_test.csv`, `VAD_train.csv`.
 
