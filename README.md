@@ -25,4 +25,4 @@ Please follow the instructions to download the datasets and reproduce the result
 9. For VAD dataset, `cd ./DOCClusterRepLearning/src` and type `python doctrain_deberta_auto_VAD.py` to run the model. Uncomment line 3104-3118, comment out line 3131 to run the baseline model.
 
 ## Training:
-10. For both models, comment out `clustering()` and uncomment `main()` in the `if __name__ == '__main__':` entry.
+10. For both datasets, comment out `clustering()` and uncomment `main()` in the `if __name__ == '__main__':` entry.
