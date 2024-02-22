@@ -78,8 +78,8 @@ MODEL_PATHS = {
     'albert-base-v2': '../input/albertconfigs/albert-base-v2/albert-base-v2/',
     'distilbert': '../input/albertconfigs/distilbert/distilbert/',
     'deberta-v3-large-old': '../input/debertaconfigs/deberta-v3-large-old/',
-    # 'deberta-v3-large-auto': None
-    'deberta-v3-large-auto': '../input/AutoModelconfigs/deberta-v3-large-auto/'
+    'deberta-v3-large-auto': None
+    # 'deberta-v3-large-auto': '../input/AutoModelconfigs/deberta-v3-large-auto/'
     }
 
 
